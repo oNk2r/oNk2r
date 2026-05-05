@@ -1,10 +1,4 @@
-<h1 align="center">Hola I'm Onkar</h1>
-<h4 align="center">Tryna be a dev</h4>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=onk2r&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
+<h1 align="left">Hi I'm Onkar</h1>
 <p align="left">
 🌱 I’m currently learning <b>MERN, AI & UI/UX</b><br>
 ⚡ Fun fact <b>Dark mode is not optional</b>
